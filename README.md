@@ -1,3 +1,4 @@
+![image](./Tutorial_Building_an_NFT_Card_Game_with_Ink_Smart_Contract.png)
 # 📚 Tutorial: Building an NFT Card Game with Ink! Smart Contract
 
 This tutorial will guide you through the process of building an NFT-based card game using Ink!, the smart contract language for the Polkadot ecosystem. You'll implement essential components of the game, including card creation, ownership transfer, and gameplay mechanics.
